@@ -1,6 +1,9 @@
 # payment-logos
 A collection of over 140 payment method logos. The logos are free to use for commercial purposes.
 
+# usage
+https://raw.githubusercontent.com/chunlee-thong/payment-logos/main/assets/card-icons/card_$type.svg
+
 ## Credit Cards
 | Image | Brand |
 | --------------- | ------ |
